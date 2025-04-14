@@ -71,7 +71,7 @@ A machine-learning pipeline inspired by Luo (2021) for efficient English text cl
 
 ## Code Structure
 
-- **`code.ipynb`**  
+- **`english-text-classifier.ipynb`**  
   1. **Imports & Setup**: pandas, NumPy, scikit-learn, NLTK, Matplotlib  
   2. **`preprocess_text()`**: cleaning, stop-word removal, stemming  
   3. **Data Loading**: fetches 20 Newsgroups, creates three themed subsets  
